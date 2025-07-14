@@ -1,0 +1,42 @@
+{
+  "name": "esg-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.14",
+    "@radix-ui/react-label": "^2.1.7",
+    "@zeit/next-css": "^1.0.1",
+    "class-variance-authority": "^0.7.1",
+    "dotenv": "^16.0.0",
+    "hangul-romanization": "^1.0.1",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.1",
+    "lucide-react": "^0.511.0",
+    "mongodb": "^6.0.0",
+    "next": "^15.3.2",
+    "next-compose-plugins": "^2.2.1",
+    "next-themes": "^0.4.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-to-print": "^3.1.0",
+    "recharts": "^2.15.3",
+    "sonner": "^2.0.3",
+    "tailwind-merge": "^3.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.7",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "autoprefixer": "10.4.14",
+    "postcss": "8.4.23",
+    "tailwindcss": "3.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.0.0"
+  }
+}
